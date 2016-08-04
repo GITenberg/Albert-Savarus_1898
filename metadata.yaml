@@ -1,0 +1,43 @@
+_repo: Albert-Savarus_1898
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Marriage, Ellen
+    gutenberg_agent_id: '701'
+    url: http://www.gutenberg.org/2009/agents/701
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    - De Balzac, Honoré
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+description: A lawyer, Albert Savarus, descends quietly upon a small town, closed
+  in it's small town ways to the intrusions of outsiders. Nobody notices him until
+  a legal case is inadvertently placed in his hands and he wins it and another and
+  another. He attracts the attention of merchants in the town who give him their cases
+  and that of a young woman who procedes to fall in love with him and thoroughly investigate
+  his mysterious life.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+- GITenberg
+title: Albert Savarus
+url: http://www.gutenberg.org/ebooks/1898
