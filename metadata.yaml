@@ -1,10 +1,13 @@
 _repo: Albert-Savarus_1898
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Marriage, Ellen
     gutenberg_agent_id: '701'
     url: http://www.gutenberg.org/2009/agents/701
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Balzac, Honoré de
@@ -26,6 +29,8 @@ description: A lawyer, Albert Savarus, descends quietly upon a small town, close
   another. He attracts the attention of merchants in the town who give him their cases
   and that of a young woman who procedes to fall in love with him and thoroughly investigate
   his mysterious life.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1898#Albert-Savarus
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
